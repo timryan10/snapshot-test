@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <h1>
+    timryan10
+  </h1>
+  <img
+    alt="Github Avatar"
+    src="GitAvatar.png"
+  />
+  <p>
+    Student in software developement bootcamp at NC State
+  </p>
+</div>
+`;
